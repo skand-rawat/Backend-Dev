@@ -1,0 +1,16 @@
+==============================
+DATABASE PRACTICE SOLUTION
+==============================
+
+Exercise 1: Database Selection
+1. Online Banking -> SQL (ACID, consistency)
+2. Social Media -> NoSQL (scalable, flexible)
+3. Real-time Chat -> NoSQL (fast writes)
+4. Hospital Records -> SQL (structured, reliable)
+5. IoT Sensor Data -> NoSQL (high volume)
+
+Exercise 2: CAP Theorem
+1. Stock Trading Platform -> CP
+2. CDN -> AP
+3. Airline Booking -> CP
+4. Video Streaming -> AP
